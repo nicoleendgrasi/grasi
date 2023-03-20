@@ -1,0 +1,17 @@
+.cabeçalho
+{
+    background-color: blueviolet;
+}
+
+h1  {
+    text-align: center;
+}
+h2 {
+    background-color: black;
+}
+.imagem{
+    width: 28px;
+}
+p{
+    font-size: 28px;
+}
