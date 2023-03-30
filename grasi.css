@@ -1,0 +1,29 @@
+cabecalho
+{
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+h2{
+background-color: aqua;
+}
+.imagem {
+    width: 20px;
+    background-image: linear-gradient();
+}
+
+p{
+    font-size: 18px;
+}
+
+.paragrafo1{
+    font-size: 30px;
+}
+.paragrafo2 {
+    font-size: 16px;
+}
+.lista {
+.divisao{
+    background-color: aquamarine;
+}
