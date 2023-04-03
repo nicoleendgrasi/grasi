@@ -1,0 +1,19 @@
+.cabeçalho
+{
+    background-color: aqua;
+}
+
+.paragrafo1{
+    background-color: aqua;
+}
+
+.paragrafo2{
+    font-size: 30px;
+}
+
+.lista{
+    text-align: center;
+}
+.footer{
+    background-color: black;
+}
